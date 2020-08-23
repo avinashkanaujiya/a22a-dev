@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Avinash's github stats](https://github-readme-stats.vercel.app/api?username=terra9&count_private=true&show_icons=true)](https://github.com/terra9/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terra9)](https://github.com/terra9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terra9&count_private=true)](https://github.com/terra9/github-readme-stats)
