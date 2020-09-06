@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terra9" alt="terra9" /> </p>
 
-- 🔭 I’m currently working on **rdnss**
+- 🔭 I’m currently working on **rdnss - A DNS Server.**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Rust, Networking**
 
 - 📫 How to reach me **avinash.r.kanaujiya@gmail.com**
 
