@@ -19,7 +19,7 @@
 
 <p align="center">
 <a href="https://twitter.com/avinashkanauj10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="avinashkanauj10" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/terra9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="terra9" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/7013084/terra9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="terra9" height="30" width="30" /></a>
 </p>
 
 <!-- use &count_private=true for enabling private repo stats -->
