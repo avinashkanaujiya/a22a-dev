@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash A Kanaujiya</h1>
 <h3 align="center">A passionate developer from India.</h3>
+[![](https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terra9" alt="terra9" /> </p>
 
