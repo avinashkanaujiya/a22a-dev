@@ -7,7 +7,7 @@
 
 -   I’m currently playing with **Rust** & and learning **Computer Networking**, while brushing up on **DSA**.
 
--   📫 How to reach me **avinash.r.kanaujiya@gmail.com.**
+-   📫 How to reach me :: **email** me @ **avinash.r.kanaujiya@gmail.com.**
 
 -   ⚡ Fun fact :: **I'm an Electrical Engineer.**
 
