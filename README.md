@@ -29,8 +29,6 @@
 <a href="https://github.com/terra9/terra9"><img src="https://github.com/terra9/terra9/blob/master/generated/overview.svg" alt=""></a>
 </p>
 
-![](https://github.com/terra9/github-stats/blob/master/generated/overview.svg)
-
 
 <p align="center">
 <a href="https://twitter.com/avinashkanauj10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="avinashkanauj10" height="30" width="30" /></a>
