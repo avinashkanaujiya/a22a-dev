@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Avinash A Kanaujiya</h1>
 <h3 align="center">A passionate developer from India.</h3>
-<p align="center"><a/ href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/0-profile-details.svg" alt=""></a> </p></p>
+<p align="center"><a/ href="https://github.com/terra9/terra9"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/0-profile-details.svg" alt=""></a> </p></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=terra9" alt="terra9" /> </p>
@@ -24,10 +24,12 @@
 
 <!-- use &count_private=true for enabling private repo stats -->
 <p align="center">
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/3-stats.svg" alt=""></a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/2-most-commit-language.svg" alt=""></a>
+<a href="https://github.com/terra9/terra9"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/3-stats.svg" alt=""></a>
+<a href="https://github.com/terra9/terra9"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/2-most-commit-language.svg" alt=""></a>
+<a href="https://github.com/terra9/terra9"><img src="https://github.com/terra9/terra9/master/generated/overview.svg" alt=""></a>
 </p>
 
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
 
 
 <p align="center">
