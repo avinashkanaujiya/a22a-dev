@@ -26,10 +26,10 @@
 <p align="center">
 <a href="https://github.com/terra9/terra9"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/3-stats.svg" alt=""></a>
 <a href="https://github.com/terra9/terra9"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/2-most-commit-language.svg" alt=""></a>
-<a href="https://github.com/terra9/terra9"><img src="https://github.com/terra9/terra9/master/generated/overview.svg" alt=""></a>
+<a href="https://github.com/terra9/terra9"><img src="https://github.com/terra9/terra9/blob/master/generated/overview.svg" alt=""></a>
 </p>
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/terra9/github-stats/blob/master/generated/overview.svg)
 
 
 <p align="center">
