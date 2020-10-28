@@ -1,14 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Avinash A Kanaujiya</h1>
-<h4 align="center">A passionate developer from India.</h4>
-<p align="center"><a/ href="https://github.com/terra9/terra9"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/0-profile-details.svg" alt=""></a> </p></p>
+<p align="center">A passionate developer from India.</p>
+<p align="center"><a/ href="https://github.com/a22a-dev/a22a-dev"><img src="https://raw.githubusercontent.com/a22a-dev/a22a-dev/master/profile-summary-card-output/monokai/0-profile-details.svg" alt=""></a> </p></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=terra9" alt="terra9" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=a22a-dev" alt="a22a-dev" /> </p>
 
--   I’m currently working on **rdnss - a DNS Server**, purely out of educational interest.
+-   I’m currently working on **developing my own handcrafted blog**, purely out of educational interest.
 
--   I’m currently playing with **Rust** & and learning **Computer Networking**, while brushing up on **DSA**.
+-   I’m currently playing with **11ty** & and learning **Operating Sysytems**, while brushing up on **DSA**.
 
 -   📫 How to reach me :: **email** me @ **avinash.r.kanaujiya@gmail.com.**
 
