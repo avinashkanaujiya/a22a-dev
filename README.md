@@ -26,8 +26,8 @@
 <p align="center">
 <a href="https://github.com/a22a-dev/a22a-dev"><img src="https://raw.githubusercontent.com/a22a-dev/a22a-dev/master/profile-summary-card-output/monokai/3-stats.svg" alt=""></a>
 <a href="https://github.com/a22a-dev/a22a-dev"><img src="https://raw.githubusercontent.com/a22a-dev/a22a-dev/master/profile-summary-card-output/monokai/2-most-commit-language.svg" alt=""></a>
-<a href="https://github.com/a22a-dev/a22a-dev"><img src="https://github.com/a22a-dev/github-stats/blob/master/generated/overview.svg" alt=""></a>
-</p>
+<!--<a href="https://github.com/a22a-dev/a22a-dev"><img src="https://github.com/a22a-dev/github-stats/blob/master/generated/overview.svg" alt=""></a>
+</p>-->
 
 
 <p align="center">
