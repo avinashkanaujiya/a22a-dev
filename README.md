@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Avinash A Kanaujiya</h1>
-<h3 align="center">A passionate developer from India.</h3>
+<h4 align="center">A passionate developer from India.</h4>
 <p align="center"><a/ href="https://github.com/terra9/terra9"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/0-profile-details.svg" alt=""></a> </p></p>
 
 
