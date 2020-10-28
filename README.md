@@ -24,9 +24,9 @@
 
 <!-- use &count_private=true for enabling private repo stats -->
 <p align="center">
-<a href="https://github.com/terra9/terra9"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/3-stats.svg" alt=""></a>
-<a href="https://github.com/terra9/terra9"><img src="https://raw.githubusercontent.com/terra9/terra9/master/profile-summary-card-output/monokai/2-most-commit-language.svg" alt=""></a>
-<a href="https://github.com/terra9/terra9"><img src="https://github.com/terra9/github-stats/blob/master/generated/overview.svg" alt=""></a>
+<a href="https://github.com/a22a-dev/a22a-dev"><img src="https://raw.githubusercontent.com/a22a-dev/a22a-dev/master/profile-summary-card-output/monokai/3-stats.svg" alt=""></a>
+<a href="https://github.com/a22a-dev/a22a-dev"><img src="https://raw.githubusercontent.com/a22a-dev/a22a-dev/master/profile-summary-card-output/monokai/2-most-commit-language.svg" alt=""></a>
+<a href="https://github.com/a22a-dev/a22a-dev"><img src="https://github.com/a22a-dev/github-stats/blob/master/generated/overview.svg" alt=""></a>
 </p>
 
 
