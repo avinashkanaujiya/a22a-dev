@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/a22a-dev/a22a-dev/master/profile-summary-card-output/default/4-productive-time.svg)
+```
+
+    
