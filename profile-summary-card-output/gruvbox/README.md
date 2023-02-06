@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/avinashkanaujiya/a22a-dev/master/profile-summary-card-output/gruvbox/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/avinashkanaujiya/a22a-dev/master/profile-summary-card-output/gruvbox/4-productive-time.svg)
-```
-
-    
