@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/avinashkanaujiya/a22a-dev/master/profile-summary-card-output/prussian/4-productive-time.svg)
-```
-
-    
